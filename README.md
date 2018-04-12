@@ -1,4 +1,4 @@
-Promlem Statement:
+Problem Statement:
 	When you run your Linux box on a VM, we often face the issue of scaling the OS window size to fit the resolution of the display. Right?
 	Installing VMware tools is one way to solve this issue, but with the scaling that these tools provide, you might end up scaling as will as stretching your display.
 	That solves your problem, but it still ain't cool, is'nt it?
